@@ -20,9 +20,8 @@ function calculate(num1, num2, operator) {
       {
         return num1 / num2;
       }
-      else
-      {
-          return null;
+      else{
+        return null;
       }
 
   }
